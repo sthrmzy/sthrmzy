@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">- 📚 I'm currently learning análise de dados<br>-</p>
 
 ###
 
