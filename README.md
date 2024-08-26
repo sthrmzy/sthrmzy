@@ -51,13 +51,6 @@
 </div>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31a3okpxpvwofdjb2qtx5vzym5bm&width={width})
-
-###
-
-<img src="https://raw.githubusercontent.com/sthrmzy/sthrmzy/output/snake.svg" alt="Snake animation" />
-
-###
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31a3okpxpvwofdjb2qtx5vzym5bm)
 
  
