@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 ###
+
 <p align="left">- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
 ###
 
 <div align="center">
