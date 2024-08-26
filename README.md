@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning análise de dados<br>-</p>
+<p align="left">- 📚 I'm currently learning análise de dados<br></p>
 
 ###
 
