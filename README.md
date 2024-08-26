@@ -52,5 +52,11 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/sthrmzy/sthrmzy/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
 
  
